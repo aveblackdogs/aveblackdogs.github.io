@@ -143,3 +143,10 @@ h1 {
     background: rgba(25, 1, 21, 0.8);
     padding: 0 1rem;
 }
+
+h3 {
+    font-size: 1rem;
+    font-weight: 300;
+    margin: 1.5em 0.5rem 1em;
+    text-align: center;
+}
